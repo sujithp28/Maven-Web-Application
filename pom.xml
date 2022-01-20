@@ -24,8 +24,10 @@
 		<!-- <sonar.host.url>http://13.232.5.182:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password> -->
-		<sonar.login>c87f5d296594fea7ea0cd9404e24add864112cd2</sonar.login>
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<!-- <sonar.login>c87f5d296594fea7ea0cd9404e24add864112cd2</sonar.login> -->
+	        <sonar.organization>sujithp28</sonar.organization>
+                <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+                <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 	</properties>
